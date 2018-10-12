@@ -1,0 +1,74 @@
+Enrico Zimuel|2b8fe
+Jason McCreary|d7e2e
+Scott Mills|4ca32
+Andrei Juc|4ca32
+Christian Wenz|67457
+Alan Seiden|9b47f
+TBA|ea9b2
+Adam Englander|1e15d
+Joshua Copeland|08747
+Andrew Cassell|bca5a
+Justin Reock|672e3
+Christian Wenz|9fc47
+Andrew Carr|85183
+TBA|300b1
+Cory Doctorow|a6f80
+Justin Reock|a0e2c
+Amrita Jain|ebcb2
+Clark Everetts|efe91
+Wim Godden|614a6
+Andrew Carr|02536
+Thijs Feryn|ab25b
+Ahmed Dirie|4dd40
+David Stokes|14f9b
+Cody Moss|ab02b
+Slavey Karadzhov|5bf2f
+Clark Everetts|987ba
+Enrico Zimuel|02deb
+TBA|e0087
+Zeev Suraski|f1e4e
+Adam Culp|ba470
+Arturo Suarez|2d361
+Joe Carder|18421
+Sammy Kaye Powers|5fb02
+Lisa Bock|58c22
+Guido Faecke|a5c97
+Tony Marion|33429
+Adam Englander|79b33
+Martin Bednorz|92a26
+Stephanie Rabbani|61298
+Andrew Cassell|a2ddd
+Scott Mills|f02c7
+Andrei Juc|f02c7
+Adam Culp|fb8fa
+Dana Luther|26381
+Larry Garfield|e5848
+Joshua Copeland|cd202
+Rod Flohr|1523e
+Jerry Hargrove|02f24
+Michael “Monty” Widenius|30b98
+Jason McCreary|061f0
+Wim Godden|12a1c
+John Saboe|6290d
+Andrew Carr|fa85c
+Slavey Karadzhov|1f24f
+Stephanie Rabbani|06341
+Cody Moss|73f18
+Justin Reock|73625
+Amrita Jain|3dbda
+Guido Faecke|8c0e1
+Thijs Feryn|5a957
+Jesse Gorzinski|52d93
+Janice Levenhagen-Seeley|9ff5a
+Richard Moot|abf15
+Lisa Bock|005f9
+Alan Seiden|8636c
+Larry Garfield|db281
+Jesse Gorzinski|d2d37
+Dave Stokes|c109f
+Dana Luther|ab10a
+Sammy Kaye Powers|0e3b7
+Joe Carder|09aae
+Jerry Hargrove|89811
+Rod Flohr|313c2
+TBA|16ff0

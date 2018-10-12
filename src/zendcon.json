@@ -1,0 +1,1376 @@
+{
+    "2b8fe": {
+        "talk_title": "Building a RESTful web API using Expressive",
+        "url_friendly_talk_title": "building-a-restful-web-api-using-expressive",
+        "talk_description": "Do you need to build an API? Are you paralyzed by the choices you need to make: What representation format to use, how to present errors, how to authenticate users? Will you be starting with a few endpoints, or many? Or gradually growing your API? Expressive is a middleware microframework that is incredibly suited to building APIs \u2014 particularly because we also provide packages for each of these API responsibilities.\r\n\r\nIn this tutorial, we will demonstrate buidling a REST API using Expressive. It will provide representations using Hypermedia Application Language, error handling in Problem Details for HTTP APIs format, authentication using OAuth2, and demonstrate common concerns such as data validation and authorization.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "2b8fe",
+        "speakers": [
+            {
+                "speaker_name": "Enrico Zimuel"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Festival C"
+            }
+        ]
+    },
+    "d7e2e": {
+        "talk_title": "Start testing your PHP code",
+        "url_friendly_talk_title": "start-testing-your-php-code",
+        "talk_description": "In this workshop, we\u2019ll cover different ways to test your PHP code. Our focus will be the tools and writing tests \u2013 we won\u2019t get caught up in all the testing dogma. Instead, we\u2019ll create a foundation in tools like PHPUnit, Mockery, and Codeception so you can make the decisions about what testing tools and strategies work best for you and your code. So if you\u2019re looking to start testing your PHP code, or learn other PHP testing tools, this workshop is for you.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "d7e2e",
+        "speakers": [
+            {
+                "speaker_name": "Jason McCreary"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "4ca32": {
+        "talk_title": "Deconstructing Docker for safety-critical applications",
+        "url_friendly_talk_title": "deconstructing-docker-for-safety-critical-applications",
+        "talk_description": "Did you know that Docker can be used to validate tools that help deliver defect-free code for life-critical applications?\r\n\r\nIn this tutorial, we\u2019ll offer hands-on learning for launching, provisioning, re-using, and sharing Dockers containers as developed by the Klocwork static code analysis team for its build and test infrastructure. Recently moving away from the traditional virtual machine environment, Docker significantly boosted the reliability and turnaround time of both software builds and tests, ensuring that the tools that validate safety- and mission-critical code maintain a high level of quality.\r\n\r\nWorkshop attendees will:\r\n\r\n- Discover the difference between containers and virtual machines\r\n- Learn how to download Docker images, and from what locations\r\n- Become familiar with the essential Docker commands\r\n- Learn how to provision Docker images, creating the right container for your needs\r\n- Determine how containers interact with the host and the multitude of available run-time options",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "4ca32",
+        "speakers": [
+            {
+                "speaker_name": "Scott Mills"
+            },
+            {
+                "speaker_name": "Andrei Juc"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "67457": {
+        "talk_title": "PHP certification boot camp - Part I",
+        "url_friendly_talk_title": "php-certification-boot-camp-part-i",
+        "talk_description": "The Zend PHP Certification is the industry standard to test a candidate\u2019s knowledge of PHP and to aid employers to select suitable developers. Learn what it takes to become a Zend Certified Engineer (ZCE) by one of the authors of the certification. We\u2019ll have a look at all topic areas, discuss common traps and required knowledge for each of them, and will provide you with background information on the test. The full-day tutorial will be conducted by the lead author of the certification and will feature a number of typical questions that resemble the layout of the actual test questions, giving you a realistic impression of the test itself and aiding you in self-assessing your current PHP knowledge.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "67457",
+        "speakers": [
+            {
+                "speaker_name": "Christian Wenz"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "9b47f": {
+        "talk_title": "PHP on IBM i performance workshop",
+        "url_friendly_talk_title": "php-on-ibm-i-performance-workshop",
+        "talk_description": "Say you\u2019re ready to deploy your new, functionality-rich application to users, but will it perform? Learn how to ensure excellent performance for your PHP applications running on, or connecting to, IBM i. We will cover the entire ecosystem in depth: how to measure performance and identify bottlenecks, optimize your use of frameworks, learn Zend Server performance tools, DB2 best practices for performance with PHP, the fastest ways to call RPG or COBOL programs, including stored procedures and special tips for the toolkit, IBM i tools that make performance troubleshooting a pleasure, how to determine optimal Apache and FastCGI settings, tips on connecting to IBM i from a non-i PHP server, and how to optimize front end code (CSS, javascript, etc.). Bring your specific performance questions for us to answer. This workshop contains material not available anywhere else. You will return to your office brimming with ideas to make your application fly.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "9b47f",
+        "speakers": [
+            {
+                "speaker_name": "Alan Seiden"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "ea9b2": {
+        "talk_title": "TBA",
+        "url_friendly_talk_title": "tba",
+        "talk_description": "TBA",
+        "type": "Workshop",
+        "start_date": "2018-10-15T09:00:00-07:00",
+        "duration": 180,
+        "stub": "ea9b2",
+        "speakers": [
+            {
+                "speaker_name": "TBA"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "1e15d": {
+        "talk_title": "Practical API security",
+        "url_friendly_talk_title": "practical-api-security",
+        "talk_description": "With the dominance of Mobile Apps, Single Page Apps for the Web, and Micro-Services, we are all building more APIs than ever before. Like many other developers, I had struggled with finding the right mix of security and simplicity for securing APIs. Some standards from the IETF have made it possible to accomplish both. Let me show you how to utilize existing libraries to lock down you API without writing a ton of code.\r\n\r\nIn this tutorial, you will learn how to write a secure API with future proof security utilizing JOSE. JOSE is a collection of complimentary standards: JWT, JWE, JWS, JWA, and JWK. JOSE is used by OAuth, OpenID, and others to secure communications between APIs and consumers. Now you can use it to secure your API.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "1e15d",
+        "speakers": [
+            {
+                "speaker_name": "Adam Englander"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Festival C"
+            }
+        ]
+    },
+    "08747": {
+        "talk_title": "Continuous delivery with Jenkins, Terraform, AWS ECS, and Docker",
+        "url_friendly_talk_title": "continuous-delivery-with-jenkins-terraform-aws-ecs-and-docker",
+        "talk_description": "In this tutorial, we\u2019ll cover from beginning to end, setting up a scalable AWS ECS cluster running your PHP application. We will cover creating a Jenkins server via Terraform and setting up a continuous delivery pipeline within it. We\u2019ll use Jenkins to manage your cloud infrastructure & environments using some open source Terraform scripts. We\u2019ll go through the steps needed to get your PHP app packaged in a Docker image and deployed to AWS Elastic Container Service. You\u2019ll see how to match your environments as closely as possible from local to live and some things to watch out for in this workflow. You\u2019ll need an AWS, Docker.io, and GitHub account for this Tutorial. For a meaningful setup you\u2019ll want a paid AWS account and if you want private repositories\/images, then you\u2019ll want a paid Github and Docker Hub account also. At the end of this tutorial, you\u2019ll be able to push some code to GitHub and your Jenkins instance will automatically pick that change up to test, build, plan, and deploy your PHP application to the cloud. We\u2019ll also show you how to rollback code; update composer dependencies; build Docker images; manage resources; and setup RC, QA, staging, and other environments. Please come prepared by pre-signing up for these accounts and having an editor capable of editing PHP, Groovy, Bash, Dockerfile, HCL (Terraform), and JSON.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "08747",
+        "speakers": [
+            {
+                "speaker_name": "Joshua Copeland"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "bca5a": {
+        "talk_title": "Introduction to domain-driven design in PHP",
+        "url_friendly_talk_title": "introduction-to-domain-driven-design-in-php",
+        "talk_description": "Building PHP applications using domain-driven design (DDD) techniques results in code that is easier to modify, maintain, test, and makes for a better user experience. In this hands-on tutorial, you will become versed in the best practices for solving problems in PHP from start to finish.\r\nYou will learn to:\r\n\u2013 Discover a ubiquitous language and identify changes in the design of PHP classes, methods, and problem solving\r\n\u2013 Assemble an incorruptible domain model in PHP by encapsulating business logic in immutable value objects, specifications, and entities\r\n\u2013 Employ best practices for persisting and accessing entities and aggregate roots in Doctrine and Zend DB and Hydrator\r\n\u2013 Use advanced PHP object-oriented techniques to simplify code and reduce state complexity\r\n\u2013 Plan for change by using the Hexagonal Architecture Pattern\r\n\u2013 Evaluate when and how to use CQRS techniques\r\n\u2013 Write your own DIY event sourcing and use libraries like EventSauce and Prooph\r\n\u2013 Introduce DDD to a \u201clegacy\u201d codebase\r\n\u2013 Discover recommended resources for learning more about applying DDD in PHP",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "bca5a",
+        "speakers": [
+            {
+                "speaker_name": "Andrew Cassell"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "672e3": {
+        "talk_title": "Asynchronous processing with ActiveMQ",
+        "url_friendly_talk_title": "asynchronous-processing-with-activemq",
+        "talk_description": "The modern enterprise landscape is a hybrid of heterogeneous technologies and disparate endpoints. In this talk, we\u2019ll discuss ways that you can leverage the flexibility and sophistication of ActiveMQ\u2019s message processing and Camel\u2019s normalized routing to federate your front-end applications with back end services. Beyond integration, we\u2019ll discuss the user experience benefits that come with processing tasks asynchronously, rather than forcing a user to wait for a task to complete interactively. The ActiveMQ and Camel communities have made innovative leaps in the last few years, and we\u2019ll look at what is available to you within these powerful, open source platforms.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "672e3",
+        "speakers": [
+            {
+                "speaker_name": "Justin Reock"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "9fc47": {
+        "talk_title": "PHP certification boot camp - Part II",
+        "url_friendly_talk_title": "php-certification-boot-camp-part-ii",
+        "talk_description": "The Zend PHP Certification is the industry standard to test a candidate\u2019s knowledge of PHP and to aid employers to select suitable developers. Learn what it takes to become a Zend Certified Engineer (ZCE) by one of the authors of the certification. We\u2019ll have a look at all topic areas, discuss common traps and required knowledge for each of them, and will provide you with background information on the test. The full-day tutorial will be conducted by the lead author of the certification and will feature a number of typical questions that resemble the layout of the actual test questions, giving you a realistic impression of the test itself and aiding you in self-assessing your current PHP knowledge.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "9fc47",
+        "speakers": [
+            {
+                "speaker_name": "Christian Wenz"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "85183": {
+        "talk_title": "Apache Web Server security hardening",
+        "url_friendly_talk_title": "apache-web-server-security-hardening",
+        "talk_description": "Last year, I discussed hardening Apache Web server with Apache Tomcat behind it. There was a lot of interest in hardening Apache and recommendations. We will review possible exploits and how proper mitigation can prevent breaches. Apache has a lot of security holes, especially in older versions. While upgrading fixes a lot of problems, there will always be exploits. We want to demonstrate a system that is reliable and robust, with the least amount of information exposed to the public. Additionally, there will be a review of some standard configurations you can build from to protect your environment.",
+        "type": "Workshop",
+        "start_date": "2018-10-15T13:00:00-07:00",
+        "duration": 180,
+        "stub": "85183",
+        "speakers": [
+            {
+                "speaker_name": "Andrew Carr"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "300b1": {
+        "talk_title": "Welcome reception and Fire side chat on API management - Featuring FedEx Cross Border",
+        "url_friendly_talk_title": "",
+        "talk_description": "Panel discussion about APIs during welcome reception in Artist B\/C",
+        "type": "Social Event",
+        "start_date": "2018-10-15T16:00:00-07:00",
+        "duration": 120,
+        "stub": "300b1",
+        "speakers": [
+            {
+                "speaker_name": "TBA"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Festival C"
+            }
+        ]
+    },
+    "a6f80": {
+        "talk_title": "The war on general purpose computing is the war on security",
+        "url_friendly_talk_title": "the-war-on-general-purpose-computing-is-the-war-on-security",
+        "talk_description": "Complexity is the enemy of security and there\u2019s nothing more complex than the general-purpose computer: the gnarly hairball of Turing completeness that lets attackers exploit your lightbulbs to attack your printer so it opens a reverse shell to their C&C box.\r\n\r\nTo a first approximation, a computer that can\u2019t run bad programs is a great answer: just design a cellphone that can\u2019t run FBI-proof encryption, or a set-top box that can\u2019t run a Netflix streamripper. Mission accomplished!\r\n\r\nThe problem is, the Turing Complete Minus One computer doesn\u2019t exist; instead, these ideas always end up being rootkits by another name: a device whose non-admin-accessible hypervisor spies on everything you do and tries to terminate any \u201cbad\u201d processes.\r\n\r\nThis is a catastrophically bad idea. What\u2019s worse is that corporations and governments are converging on a set of incentives to implement this technologically bankrupt idea in everything with a system-on-a-chip, from your toaster to your tractor to your pacemaker to your car.",
+        "type": "Keynote",
+        "start_date": "2018-10-16T08:30:00-07:00",
+        "duration": 90,
+        "stub": "a6f80",
+        "speakers": [
+            {
+                "speaker_name": "Cory Doctorow"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "a0e2c": {
+        "talk_title": "Asynchronous processing with ActiveMQ",
+        "url_friendly_talk_title": "asynchronous-processing-with-activemq-25268",
+        "talk_description": "The modern enterprise landscape is a hybrid of heterogeneous technologies and disparate endpoints. In this talk, we\u2019ll discuss ways that you can leverage the flexibility and sophistication of ActiveMQ\u2019s message processing and Camel\u2019s normalized routing to federate your front-end applications with back end services. Beyond integration, we\u2019ll discuss the user experience benefits that come with processing tasks asynchronously, rather than forcing a user to wait for a task to complete interactively. The ActiveMQ and Camel communities have made innovative leaps in the last few years, and we\u2019ll look at what is available to you within these powerful, open source platforms.",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "a0e2c",
+        "speakers": [
+            {
+                "speaker_name": "Justin Reock"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "ebcb2": {
+        "talk_title": "Device-independent API design using microservices+GraphQL",
+        "url_friendly_talk_title": "device-independent-api-design-using-microservicesgraphql",
+        "talk_description": "With the explosion of consumer devices, designing flexible and device-independent optimized APIs has become increasingly challenging. This talk covers API design best practices for serverless microservice architectures, demonstrates core principles of microservices using sample PHP examples, and summarizes the lessons learned. This talk also covers highly-optimized API design using GraphQL to address versioning issues and device resource constraints.",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "ebcb2",
+        "speakers": [
+            {
+                "speaker_name": "Amrita Jain"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "efe91": {
+        "talk_title": "Zend Expressive on the IBM i",
+        "url_friendly_talk_title": "zend-expressive-on-the-ibm-i",
+        "talk_description": "You\u2019ve heard about Zend Expressive, PSR-7, HTTP messages, and middleware. How about a real Zend Expressive application that starts with CRUD, but goes beyond? How should models invoke RPG, DB2, SQL stored procedures? Where are \u201cthe controllers?\u201d How do we handle issues like sessions, authentication, and access control with middleware? This is not the standard Sample Application; this one is for you, IBM i developers, with a 5250-based Order Entry\/Lookup application to start from as a point of reference!",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "efe91",
+        "speakers": [
+            {
+                "speaker_name": "Clark Everetts"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "614a6": {
+        "talk_title": "Bringing bright ideas to life",
+        "url_friendly_talk_title": "bringing-bright-ideas-to-life",
+        "talk_description": "Who would have thought putting 140-character messages about one\u2019s life online or having a virtual farm game could ever be popular? Then again, many of us have those weird (but sometimes brilliant) ideas. So you have the idea that will make you the next Twitter or Facebook. But how do you actually turn that into a successful service? What hurdles do you have to take and what pitfalls will you need to avoid?",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "614a6",
+        "speakers": [
+            {
+                "speaker_name": "Wim Godden"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "02536": {
+        "talk_title": "Kafka with your microservices architecture",
+        "url_friendly_talk_title": "kafka-with-your-microservices-architecture",
+        "talk_description": "Microservices are the latest shift in architectural design. Learn how implementing Kafka with your microservices architecture can allow for rapid and reliable inter-service communication. In this talk, we will demonstrate how Kafka communicates reliably between different services, how Kafka and Zookeeper interact, and how to establish availability and durability in your messaging framework. Finally, we will discuss the differences between Kafka and ActiveMQ, and which one is better for your architecture.",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "02536",
+        "speakers": [
+            {
+                "speaker_name": "Andrew Carr"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "ab25b": {
+        "talk_title": "Controlling the variables",
+        "url_friendly_talk_title": "controlling-the-variables",
+        "talk_description": "As a kid, do you have ambitions for the future? \u201cWhen I grow up I want to become a \u2026\u201d. Maybe you wanted to become a fireman, an astronaut, a nurse, a teacher, or a police officer? As you grow up, these ideas evolve and get replaced with actual ambitions, actual hopes and dreams. These might be entirely different than your childhood dreams.\r\n\r\nBut how do you reach these goals?\r\nHow do you accomplish these dreams?\r\nBy listening to your parents, friends, or teachers?\r\nBy doing it yourself?\r\nOr maybe, you have given up and settled for a watered down version of the career and life you envisioned?\r\n\r\nPeople often attribute success to luck, and lack of success to incompetence. But what if I told you it\u2019s all about controlling the variables?\r\n\r\nLuck is something that you can control in a way. The more you figure out the context, the key players, the relationships, the values, and the rules of the ecosystem in which you want to succeed, the easier it is to gain from it. The more variables you control, the easier it is to find potential opportunities and to bank on them.\r\n\r\nMaybe you didn\u2019t get lucky, maybe you just saw it coming, and prepared yourself for it.\r\n\r\nIn this talk, Thijs is going to share his experiences, his hopes, his dreams, and how he applies a positive mental attitude to level up in his career, and in life in general.\r\n\r\nThis is not a growth hacking talk, but a simple set of tips and tricks to succeed, even if it seems like the odds are stacked against you.",
+        "type": "Talk",
+        "start_date": "2018-10-16T10:15:00-07:00",
+        "duration": 60,
+        "stub": "ab25b",
+        "speakers": [
+            {
+                "speaker_name": "Thijs Feryn"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "4dd40": {
+        "talk_title": "Transitioning from virtual machines to containers and orchestration",
+        "url_friendly_talk_title": "transitioning-from-virtual-machines-to-containers-and-orchestration",
+        "talk_description": "If you\u2019ve been working with virtual machines and want a smooth transition to containers, then this talk is for you. We\u2019ll look at how to set up cloud architecture using containers with an orchestration layer using Rancher. We\u2019ll cover setting up stacks, scaling containers, getting SSL established, and load balancing traffic between stacks and containers. We\u2019ll also look at monitoring solutions and viewing the health of your containers.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "4dd40",
+        "speakers": [
+            {
+                "speaker_name": "Ahmed Dirie"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "14f9b": {
+        "talk_title": "MySQL without the SQL -- Oh my!",
+        "url_friendly_talk_title": "mysql-without-the-sql-oh-my",
+        "talk_description": "The MySQL Document Store is a NoSQL JSON document store that gives developers the ability to store data without setting up relational tables, finding a DBA, normalizing data. or using Structured Query Language (SQL). No more embedding messy strings of SQL in your beautiful code. By taking advantage of the MySQL\u2019s new X Devapi, you can can do all the Create, Replace, Update, and Delete (CRUD) functions from within PHP (or your other programming language of choice). You get the best of both worlds as you can access your data with or without SQL on a stable well known technology that provides data replication and transactions.\r\n\r\nThe session heavily covers how to build the X DevapI PECL extension, using the MySQL Document Store from PHP, and ways to exploit this new feature for your benefit. Plenty of programming examples so you can walk out knowing how to use the MySQL Document Store.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "14f9b",
+        "speakers": [
+            {
+                "speaker_name": "David Stokes"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "ab02b": {
+        "talk_title": "Kubernetes: It's automation not automagic",
+        "url_friendly_talk_title": "kubernetes-its-automation-not-automagic",
+        "talk_description": "This talk will cover what Kubernetes is and the working bits of Kubernetes, and even show examples of some of the components. It is a good starting place for PHP developers to get a grip with Kubernetes and start thinking about or even start using it. The talk also covers how Docker and Kubenetes work together to make a great infrastructure. I will also cover the self healing part of Kubernetes and why you would want to use Kubernetes.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "ab02b",
+        "speakers": [
+            {
+                "speaker_name": "Cody Moss"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "5bf2f": {
+        "talk_title": "Web optimization best practices applied in the embedded world",
+        "url_friendly_talk_title": "web-optimization-best-practices-applied-in-the-embedded-world",
+        "talk_description": "A good web developer should know all major techniques used for faster web communication. This talk will review them for you and will show you how they can be applied in the embedded world where they are even more important. And that knowledge will be applied to a microcontroller where we will run an embedded web server and HTTP client.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "5bf2f",
+        "speakers": [
+            {
+                "speaker_name": "Slavey Karadzhov"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "987ba": {
+        "talk_title": "IBM Watson & PHP, a practical demonstration",
+        "url_friendly_talk_title": "ibm-watson--php-a-practical-demonstration",
+        "talk_description": "Can you find how much of your inventory is on hand or allocated? Which product lines your customers are buying, and in what volume? Can you do it hands-free? In this session, we demonstrate live how IBM Watson can help an inventory or sales manager understand how much stock is available, who is buying and selling it, and spot important trends. We leverage speech-to-text, text-to-speech, natural language processing, and good ol\u2019 SQL, and train a chatbot engine to implement more than a chatbot: a hands-free, truly interactive application, powered by Watson in the cloud, using inventory, customer, and sales data.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "987ba",
+        "speakers": [
+            {
+                "speaker_name": "Clark Everetts"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "02deb": {
+        "talk_title": "The Sodium crypto library of PHP 7.2",
+        "url_friendly_talk_title": "the-sodium-crypto-library-of-php-72",
+        "talk_description": "Have you ever wondered about any of the following security concerns?\r\n\r\n- How to store  user passwords\r\n- How to encrypt\/decrypt sensitive information\r\n- How to authenticate users\r\n\r\nThe Sodium crypto library, offered as a core extension of PHP since 7.2, is a modern, easy-to-use software library for encryption, decryption, signatures, password hashing, and more, solving each of the above problems. We will demonstrate each during this session, as well as present advanced features such as authenticated encryption, anonymous public-key encryption, and elliptic curve cryptography.",
+        "type": "Talk",
+        "start_date": "2018-10-16T11:30:00-07:00",
+        "duration": 60,
+        "stub": "02deb",
+        "speakers": [
+            {
+                "speaker_name": "Enrico Zimuel"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "e0087": {
+        "talk_title": "Women in technology panel discussion - Lunch",
+        "url_friendly_talk_title": "",
+        "talk_description": "Panel discussion during lunch in Artist B & C",
+        "type": "Social Event",
+        "start_date": "2018-10-16T12:30:00-07:00",
+        "duration": 60,
+        "stub": "e0087",
+        "speakers": [
+            {
+                "speaker_name": "TBA"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "f1e4e": {
+        "talk_title": "PHP: A glimpse into the future",
+        "url_friendly_talk_title": "php-a-glimpse-into-the-future",
+        "talk_description": "TBA",
+        "type": "Keynote",
+        "start_date": "2018-10-16T13:30:00-07:00",
+        "duration": 60,
+        "stub": "f1e4e",
+        "speakers": [
+            {
+                "speaker_name": "Zeev Suraski"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "ba470": {
+        "talk_title": "Release your refactoring superpower",
+        "url_friendly_talk_title": "release-your-refactoring-superpower",
+        "talk_description": "Legacy applications are full of supervillains scheming to halt modernizing efforts. But deprecated versions of PHP, frameworks, libraries, and more drive a never-ending battle to keep applications up to date, supported, and secure. This can leave any would-be superhero seeking how, what, when, and why.\r\n\r\nJoin me as we consider real-life case studies of modernizations from various large legacy applications, and will share common evil-doers, ways to foil their plans, and how to eliminate vulnerabilities in the first place. See how to make refactoring your super power!",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "ba470",
+        "speakers": [
+            {
+                "speaker_name": "Adam Culp"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "2d361": {
+        "talk_title": "Open infrastructure: From cloud to containers with a real-world approach",
+        "url_friendly_talk_title": "open-infrastructure-from-cloud-to-containers-with-a-real-world-approach",
+        "talk_description": "Open infrastructure is everywhere, and it is software defined. The foundation of infrastructure software is hugely based on open source, providing better cost, security, scalability, and performance to the applications and services running on top.\r\n\r\nHow do these applications relate to the underlying infrastructure?\r\n\r\nWhat open infrastructure options are out there?\r\n\r\nKubernetes, Docker, OpenStack, KVM, baremetal\u2026Which one is a better fit?\r\n\r\nIn this session, we\u2019ll use real-life examples from well-established companies to define the best practices when choosing open infrastructure technologies and vendors.",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "2d361",
+        "speakers": [
+            {
+                "speaker_name": "Arturo Suarez"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "18421": {
+        "talk_title": "Administering MongoDB",
+        "url_friendly_talk_title": "administering-mongodb",
+        "talk_description": "The Mongo command-line is not just for creating and manipulating documents. Unlock the true power of this document-oriented database. Explore features from basic commands to advanced concepts such as sharded cluster performance and management.",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "18421",
+        "speakers": [
+            {
+                "speaker_name": "Joe Carder"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "5fb02": {
+        "talk_title": "The debug dance: An intro to step debugging",
+        "url_friendly_talk_title": "the-debug-dance-an-intro-to-step-debugging",
+        "talk_description": "Using var_dump() to debug your app has its benefits but there are more comprehensive and efficient ways to debug those particularly elusive bugs. Enter step debugging. We\u2019ll be using the PhpStorm IDE to step through our PHP apps line by line and see how much more power step debugging gives us over the conventional var_dump() technique. We\u2019ll also touch on debugging from the command line. Learn to dance in PHP with step debugging.",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "5fb02",
+        "speakers": [
+            {
+                "speaker_name": "Sammy Kaye Powers"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "58c22": {
+        "talk_title": "Essentials of blockchain technology",
+        "url_friendly_talk_title": "essentials-of-blockchain-technology",
+        "talk_description": "Blockchain technology was originally developed to protect financial data, such as bitcoin mining, to securely send transactions. In addition to using blockchains for financial transactions, we are now starting to see solutions that include using blockchain technology to secure communications between devices. Researchers are finding that we can use blockchains to provide authentication between devices and in any application that requires data integrity as it prevents spoofing. In this presentation, learn the history of blockchain, how blockchains work, along with some practical applications of blockchains.",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "58c22",
+        "speakers": [
+            {
+                "speaker_name": "Lisa Bock"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "a5c97": {
+        "talk_title": "Doctrine on IBM i",
+        "url_friendly_talk_title": "doctrine-on-ibm-i",
+        "talk_description": "We all know how frustrating it can be when we deal with IBM i DB2 naming conventions in our codebase. Let me show you why and how Doctrine can take a lot of the frustration away. I will explain everything that is needed to get you started, down to the different query options.",
+        "type": "Talk",
+        "start_date": "2018-10-16T14:45:00-07:00",
+        "duration": 60,
+        "stub": "a5c97",
+        "speakers": [
+            {
+                "speaker_name": "Guido Faecke"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "33429": {
+        "talk_title": "How open source software is transforming enterprise organizations",
+        "url_friendly_talk_title": "how-open-source-software-is-transforming-enterprise-organizations",
+        "talk_description": "Technology has enabled small startups to disrupt and displace Industry giants. Now more than ever enterprise organizations must constantly innovate to remain competitive. Utilizing open source software is one approach that enterprises are leveraging to enable innovation. Learn how the perception of open source software has changed over the years and why it is no longer just for startups.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "33429",
+        "speakers": [
+            {
+                "speaker_name": "Tony Marion"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "79b33": {
+        "talk_title": "Cryptography in depth",
+        "url_friendly_talk_title": "cryptography-in-depth",
+        "talk_description": "Cryptography is the invisible layer protecting everything around us. As software engineers, we are required to have some understanding of cryptography. Most of us only have a cursory understanding. Let\u2019s dive deep into algorithms and modes for encryption, digital signatures, hashing, and key derivation. To get the most from this presentation, it is expected that you have a basic understanding of cryptography.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "79b33",
+        "speakers": [
+            {
+                "speaker_name": "Adam Englander"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "92a26": {
+        "talk_title": "Using Z-Ray for lightning fast security analysis",
+        "url_friendly_talk_title": "using-z-ray-for-lightning-fast-security-analysis",
+        "talk_description": "With the ever-growing threat of data and compliance breaches, the security of web applications and APIs is business critical. Z-Ray provides PHP application developers with fine-grained insights about page requests, warnings and errors, events, and database queries. It can be integrated into Zend Server or used standalone for efficient debugging. But until now, Z-Ray does not track the data flow for security-related issues. In this talk, we present our integration of automated security analysis into Z-Ray.\r\n\r\nWe use the deep insights provided by Z-Ray to greatly speed-up and simplify a static code analysis process. Due to the reduced analysis time, it can be used during development and testing of single components without the need to analyze the complete code base. At the same time, detected security bugs can be easily verified with one click by combining the collected information about the web requests and the results of a context-sensitive security analysis. We will cover technical insights about how Z-Ray can be extended, basics about static code analysis, and how both technologies can be combined to a new plugin that allows on-the-fly bug detection and verification.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "92a26",
+        "speakers": [
+            {
+                "speaker_name": "Martin Bednorz"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "61298": {
+        "talk_title": "Open source DB2Sock: The new way to connect to the IBM i",
+        "url_friendly_talk_title": "open-source-db2sock-the-new-way-to-connect-to-the-ibm-i",
+        "talk_description": "DB2Sock is an open source utility created by IBM that allows you access your DB2 data from any web language\u2014including Javascript\u2014without the need for DB2 connection functions. Learn how to use DB2Sock to query your DB2 data or call RPG\/CL\/COBOL programs using examples in Python and PHP.\r\n\r\nBonus material will include how to contribute to this open source project.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "61298",
+        "speakers": [
+            {
+                "speaker_name": "Stephanie Rabbani"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "a2ddd": {
+        "talk_title": "Immutability to save an ever-changing world",
+        "url_friendly_talk_title": "immutability-to-save-an-ever-changing-world",
+        "talk_description": "Want to build software that is more testable, easier to modify, and has fewer lines of code? Architecting with more immutable objects that are always in a valid state is the most important lesson I have learned in building better software applications. Using immutable value objects will lead to less checking, fewer bugs, and more DRY code, and will help avoid the \u201cspooky action at a distance\u201d problem in PHP. We will also learn how to use immutable objects and immutable collections to improve design of our mutable entities. Lastly, we\u2019ll see how immutable objects and functional programming can reduce complexity.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "a2ddd",
+        "speakers": [
+            {
+                "speaker_name": "Andrew Cassell"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "f02c7": {
+        "talk_title": "Warp speed testing at an enterprise level",
+        "url_friendly_talk_title": "warp-speed-testing-at-an-enterprise-level",
+        "talk_description": "With the extensive amount of testing performed on large scale software projects, build, test and verification teams often experience lengthy wait times for test results, delaying the entire fault identification and resolution process. How can large-scale test teams take advantage of containerization and Amazon Web Services?\r\n\r\nAmazon Web Services (AWS) provides users with the capability to quickly and easily spin up numerous Amazon Machine Images (AMIs) on demand, allowing them to be provisioned for hardware specs using one of many instance types available in AWS. This provides users the ability to spin up a plethora of AMIs for specific purposes. To ensure repeatable, reliable and stable results, the Docker framework is used to create \u201ccanned\u201d operating systems that contain all the required dependencies within these AMIs.\r\n\r\nThe Docker images are run on AMIs and provide a renewed clean environment every time.\r\n\r\nUsing this combination of technologies, users can create powerful frameworks that complete complex tasks in a timely and reliable matter. Furthermore, the use of Docker enables developers and testers to quickly replicate build and test failures in the exact environment they occurred in without taking resources away from automation frameworks and without interfering with any currently running frameworks.\r\n\r\nCome to this track to find out the secret sauce and recipes on how to make this all happen.",
+        "type": "Talk",
+        "start_date": "2018-10-16T16:00:00-07:00",
+        "duration": 60,
+        "stub": "f02c7",
+        "speakers": [
+            {
+                "speaker_name": "Scott Mills"
+            },
+            {
+                "speaker_name": "Andrei Juc"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "fb8fa": {
+        "talk_title": "PHP-1701-A",
+        "url_friendly_talk_title": "php-1701-a",
+        "talk_description": "Yes, \u201cPHP-1701-A\u201d or better known as \u201cEnterprise PHP\u201d really is a thing. Enterprise level companies do have conventions when choosing what frameworks, libraries, and tools are used by employees to create their applications. Some are obvious, while others are hidden and not what we\u2019d normally think.\r\n\r\nIn this talk we will discuss elements and characteristics that are considered by enterprises, and what should be included. Attendees will learn how to better choose or create \u201cEnterprise Ready\u201d applications, and possibly what they should consider in their day to day coding.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "fb8fa",
+        "speakers": [
+            {
+                "speaker_name": "Adam Culp"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "26381": {
+        "talk_title": "Docker alphabet soup",
+        "url_friendly_talk_title": "docker-alphabet-soup",
+        "talk_description": "If you\u2019re new to Docker, the lingo can be more than a little daunting. Containers? Stacks? Images? Services? What\u2019s the difference between \u201cdocker stack ls vm\u201d vs. \u201cdocker service ls\u201d? What are all those toggles and do I need them? Where did all my logs go, and what the heck is a swarm? In this presentation, we\u2019ll go over the lingo and explain some of the hidden gems in the list of commands that every developer should know.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "26381",
+        "speakers": [
+            {
+                "speaker_name": "Dana Luther"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "e5848": {
+        "talk_title": "Building a cloud-friendly application",
+        "url_friendly_talk_title": "building-a-cloud-friendly-application",
+        "talk_description": "The days of hand-crafted artisanal servers are long over. Modern web applications need to be able to run on many different servers without code changes \u2013 not just different hosting providers, but different environments on the same hosting provider. Whether you\u2019re using a legacy dev\/stage\/prod setup or a modern branch-is-environment host, modern hosting imposes some requirements on your application design but also offers a huge potential for new and powerful tools.\r\n\r\nIn this session, we\u2019ll explore some key guidelines for building a cloud-friendly application, as well as look at some architectural options that a modern hosting platform enables.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "e5848",
+        "speakers": [
+            {
+                "speaker_name": "Larry Garfield"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "cd202": {
+        "talk_title": "Rapid API development",
+        "url_friendly_talk_title": "rapid-api-development",
+        "talk_description": "Need to build a RESTful API in weeks versus months? In this talk, we will cover the biggest PHP Frameworks and what they offer towards building APIs quickly. We will show example APIs with frameworks built in Zend 3, Symfony 4, Laravel 5.6, CakePHP 4, and some micro-frameworks like Lumen and Slim. We will cover some clear differences in each framework and share my experience working with a few of them in the real world. We\u2019ll cover best practices like versioning, testing, proper logging, and error handling, security, docs, and more. I\u2019ll share the pros and cons of architectural decisions you need to make when building an API and ways to improve performance. There are also many different API development tools, libraries, and platforms we will touch on like \u201cAPI Platform,\u201d FOSRestBundle, Apiato.io, Apigility, and a few other notable mentions. After this talk, you should have a basic understanding of your options out there in the PHP ecosystem and have a better insight into what suits your needs best.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "cd202",
+        "speakers": [
+            {
+                "speaker_name": "Joshua Copeland"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "1523e": {
+        "talk_title": "Install MariaDB on IBM i: Tips, troubleshooting, and more",
+        "url_friendly_talk_title": "install-mariadb-on-ibm-i-tips-troubleshooting-and-more",
+        "talk_description": "MariaDB is the new open source drop-in replacement for MySQL that has been adopted by IBM for use on Power Linux and IBM i. ZendDBi is the installer provided by Rogue Wave Software for installation of MariaDB on the IBM i.\r\n\r\nIn this session, we\u2019ll show how to use ZendDBi to install MariaDB and provide some important tips for post-installation. We\u2019ll also demonstrate troubleshooting some common installation issues. While most installations of MariaDB are trouble free, the troubleshooting procedures will give us a chance to understand a bit more about the operation of MariaDB on the IBM i. It\u2019ll also give us the opportunity to explore some concepts on IBM i that may not be familiar to some RPG programmers.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "1523e",
+        "speakers": [
+            {
+                "speaker_name": "Rod Flohr"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "02f24": {
+        "talk_title": "From zero to DevSecOps in 60 minutes",
+        "url_friendly_talk_title": "from-zero-to-devsecops-in-60-minutes",
+        "talk_description": "Whether you\u2019re building an application in a DevOps + Security culture or have already bridged the gap with DevSecOps, the task remains the same: How do you ensure that security best practices are understood, architected for, and integrated into your application from day one and remain relevant year one. During this talk, I\u2019ll focus on how to achieve these goals amidst the ever changing landscape of people, process, and technology in the cloud, in the context of various compute environments like instances, containers and serverless functions, and how to do so using off-the-shelf AWS services and features. I\u2019ll complete the story by accompanying this discussion with a reference application architecture and examples. Attendees of this talk will receive actionable best practices and guidance, with specific implementation details for AWS using PHP and the AWS PHP SDK.",
+        "type": "Talk",
+        "start_date": "2018-10-16T17:15:00-07:00",
+        "duration": 60,
+        "stub": "02f24",
+        "speakers": [
+            {
+                "speaker_name": "Jerry Hargrove"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "30b98": {
+        "talk_title": "MariaDB and MySQL: Past and future",
+        "url_friendly_talk_title": "mariadb-and-mysql-past-and-future",
+        "talk_description": "A journey through the history of MySQL and MariaDB highlighting the unique relationship between MySQL and PHP.\r\n\r\nMonty will look at key events from when MySQL was created to the sale of MySQL, the creation of MariaDB, and how MariaDB has replaced MySQL in almost all Linux distributions.\r\n\r\nThe talk will also cover the most unique features of MariaDB that sets it apart from MySQL.",
+        "type": "Keynote",
+        "start_date": "2018-10-17T09:00:00-07:00",
+        "duration": 60,
+        "stub": "30b98",
+        "speakers": [
+            {
+                "speaker_name": "Michael \u201cMonty\u201d Widenius"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "061f0": {
+        "talk_title": "Writing code that lasts\u2026",
+        "url_friendly_talk_title": "writing-code-that-lasts",
+        "talk_description": "\u201cClean code\u201d is code that communicates. But how do we write clean code? In this talk, we\u2019ll look at nine simple practices that will help you write clean code. We\u2019ll see how each one reduces complexity and improves readability. Don\u2019t worry though, we\u2019re not just going to \u201ctalk.\u201d All of these practices will be shown with live coding demos to reveal all of the little steps involved so you can go and start cleaning up your own code.",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "061f0",
+        "speakers": [
+            {
+                "speaker_name": "Jason McCreary"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "12a1c": {
+        "talk_title": "The why and the how of moving to PHP 7.x",
+        "url_friendly_talk_title": "the-why-and-the-how-of-moving-to-php-7x",
+        "talk_description": "With PHP 7.2 recently released, and PHP 5.3 and 5.4 still accounting for over 40% of all production environments, it\u2019s time to paint a clear picture on not just why everyone should move to 7.x, but on how to get code ready for the latest version of PHP. In this talk, we\u2019ll look at some handy tools and techniques to ease the migration.",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "12a1c",
+        "speakers": [
+            {
+                "speaker_name": "Wim Godden"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "6290d": {
+        "talk_title": "Application security basics",
+        "url_friendly_talk_title": "application-security-basics",
+        "talk_description": "Application security is more important than ever, but as enterprise architectures increase in size and complexity it is also more complex than ever. John Saboe got his start in application security from a developer perspective and has continued to be an advocate for building architectures the right way \u2013 including security concerns from the start \u2013 throughout his career. John will cover application security basics, demystifying some of the common terminology and standards, and introduce resources for further learning. He will also discuss examples from his own experiences as an application security consultant, as a developer, supporting architectures, and designing new architectures with security in mind.",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "6290d",
+        "speakers": [
+            {
+                "speaker_name": "John Saboe"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "fa85c": {
+        "talk_title": "Apache web server security hardening",
+        "url_friendly_talk_title": "apache-web-server-security-hardening-25305",
+        "talk_description": "Last year, I discussed hardening Apache Web server with Apache Tomcat behind it. There was a lot of interest in hardening Apache and recommendations. We will review possible exploits and how proper mitigation can prevent breaches. Apache has a lot of security holes, especially in older versions. While upgrading fixes a lot of problems, there will always be exploits. We want to demonstrate a system that is reliable and robust, with the least amount of information exposed to the public. Additionally, there will be a review of some standard configurations you can build from to protect your environment.",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "fa85c",
+        "speakers": [
+            {
+                "speaker_name": "Andrew Carr"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "1f24f": {
+        "talk_title": "Fear not a PHP segfault",
+        "url_friendly_talk_title": "fear-not-a-php-segfault",
+        "talk_description": "Debugging an issue in PHP can be hard. Debugging a segfault in PHP is even harder. This talk is about helping PHP developers, with no prior C knowledge, to analyse and understand better the reason(s) for a segfault and ways to fix it. This is a practical talk which will demonstrate the usage of free\/open source tools.",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "1f24f",
+        "speakers": [
+            {
+                "speaker_name": "Slavey Karadzhov"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "06341": {
+        "talk_title": "PHP debugging on the IBM i from A to Z (Apache to Zend)",
+        "url_friendly_talk_title": "php-debugging-on-the-ibm-i-from-a-to-z-apache-to-zend",
+        "talk_description": "500 internal server error? Wait, now it\u2019s a 404 error. I think it\u2019s actually a syntax error. And now my program call isn\u2019t returning anything. My page doesn\u2019t look right, and my Javascript is not working.\r\n\r\nIn this session, we cover the spectrum of debugging from server all the way to the browser with my tips and tricks learned in my 15 years of web application development experience.\r\n\r\nLearning objectives:\r\n\r\n- Analyzing Apache logs and Apache server issues\r\n- Debugging your PHP code\r\n- Debugging program calls, DB2 and library list issues\r\n- Debugging Javascript and CSS",
+        "type": "Talk",
+        "start_date": "2018-10-17T10:15:00-07:00",
+        "duration": 60,
+        "stub": "06341",
+        "speakers": [
+            {
+                "speaker_name": "Stephanie Rabbani"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "73f18": {
+        "talk_title": "Swimming with Docker",
+        "url_friendly_talk_title": "swimming-with-docker",
+        "talk_description": "This talk goes over what Docker is and how to use it. This covers the basics of Docker and will get most PHP developers up and running with it. Docker can replace slow systems like Vagrant and also set up developers to be able to easily get started using Kubernetes. Also with Docker, developers can take power of things like Amazon ECS and many other cloud platforms. Most of this talk is given with demos and explaining wheat each bit is doing.",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "73f18",
+        "speakers": [
+            {
+                "speaker_name": "Cody Moss"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "73625": {
+        "talk_title": "The forgotten route: Making Apache Camel work for you",
+        "url_friendly_talk_title": "the-forgotten-route-making-apache-camel-work-for-you",
+        "talk_description": "This is a classic example of older technology not being used to its fullest, which Justin proves by walking through little known configuration and optimization tricks that get data flowing reliably and efficiently \u2013 even for today\u2019s complexity and scale. This session covers:\r\n\r\nA \u2013 Camel basics, understanding Exchanges, Routes, and how to implement EIPs with them\r\nB \u2013 Examples of real implementations of common EIPs like Content Based Routers and Recipient Lists\r\nC \u2013 Integration of Camel with common endpoints, like JMS, FTP, and HTTP",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "73625",
+        "speakers": [
+            {
+                "speaker_name": "Justin Reock"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "3dbda": {
+        "talk_title": "Securing web services: Fundamentals, lessons learned, common vulnerabilities, and security strategies",
+        "url_friendly_talk_title": "securing-web-services-fundamentals-lessons-learned-common-vulnerabilities-and-security-strategies",
+        "talk_description": "In this three-part talk, we will first analyze the fundamentals of common security protocols such as Oauth1.0\/2.0, Three-legged and Pin-based Auth. Next, we will review the security models of Facebook, Twitter, and Google APIs in the light of the aforementioned protocols. Finally, we will apply our learnings to construct a comprehensive security model using a dedicated trust server, handshaking token, hierarchical security matrix, and dynamic secret sharing.",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "3dbda",
+        "speakers": [
+            {
+                "speaker_name": "Amrita Jain"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "8c0e1": {
+        "talk_title": "How to set up a well maintainable ZF3 project",
+        "url_friendly_talk_title": "how-to-set-up-a-well-maintainable-zf3-project",
+        "talk_description": "Have you ever thought about how to get a good base setup for your next ZendFramework project?\r\n\r\nHave you never understood why others always talk about layers, or why API centric might be better?\r\n\r\nLet me guide you through the process of setting up your project in a interesting and alternative way.\r\n\r\nWe will cover topics like database abstraction layers, model layers and service layers. We will also discuss good use cases for VO\u2019s and Entities.",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "8c0e1",
+        "speakers": [
+            {
+                "speaker_name": "Guido Faecke"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "5a957": {
+        "talk_title": "Developing cacheable PHP applications",
+        "url_friendly_talk_title": "developing-cacheable-php-applications",
+        "talk_description": "Websites, web applications, and APIs, they all speak HTTP. As a developer, most of us are familiar with HTTP but when it actually comes to creating cacheable web content, there is still a lot to be learned.\r\n\r\nIn this presentation, I will show you how to leverage specific headers to achieve a maximum hit rate without losing touch with some of the challenges of real-life web projects. These best practices will be illustrated by applying them to a Symfony 4 application.\r\n\r\nThe following topics will be covered:\r\n\r\n- The syntax of cache-control headers\r\n- How to use cache-control headers to control whether or not to cache\r\n- How to use cache-control headers to control the time to life of our cached objects\r\n- How to deal with cookies\r\n- How to separate stateful from stateless content\r\n- How to architect content blocks in your code using Edge Side Includes, HInclude, and AJAX\r\n- How to boost your performance by adding a reverse cache proxy like Varnish\r\n- How to invalidate your cache\r\n- How to leverage content delivery networks\r\n- How to create cache variations\r\n- How to reduce backend load and bandwidth by performing conditional HTTP requests\r\n- How to cache content for logged-in users by using JSON Web Tokens",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "5a957",
+        "speakers": [
+            {
+                "speaker_name": "Thijs Feryn"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "52d93": {
+        "talk_title": "IBM i open source administration guide",
+        "url_friendly_talk_title": "ibm-i-open-source-administration-guide",
+        "talk_description": "You may have heard about the latest news with open source: RPM\u2019s! As a system administrator, you may have lots of questions:\r\n\r\n- What does this mean for me?\r\n- Why the switch?\r\n- What new skills do I need?\r\n- How do I sanely manage open source on my system?\r\n\r\nCome to this session to demystify the bold new world of RPM\u2019s!\r\n\r\nAlso, learn about containers. We\u2019ll introduce the ibmichroot (IBM i Chroot) open source project. Think of this technology being similar to being able to create a bunch of micro instances of IBM i all on a single instance of IBM i. This technology is excellent for those running applications in PASE such as Node.js, Ruby, Python, and PHP.",
+        "type": "Talk",
+        "start_date": "2018-10-17T11:30:00-07:00",
+        "duration": 60,
+        "stub": "52d93",
+        "speakers": [
+            {
+                "speaker_name": "Jesse Gorzinski"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "9ff5a": {
+        "talk_title": "Winning together",
+        "url_friendly_talk_title": "winning-together",
+        "talk_description": "Instead of letting her experiences with bullying, harassment and discrimination tear her down, Janice Levenhagen-Seeley focused on creating ChickTech \u2013 a community empowering women to pull each other up.\r\n\r\nUsing examples from her own life and drawing on anecdotes from the open source community at large, Janice shares how you can create powerful change in your community and beyond. By implementing these ideas and pulling each other up, we can create sustainable, inclusive, and successful open source communities together.",
+        "type": "Keynote",
+        "start_date": "2018-10-17T13:30:00-07:00",
+        "duration": 60,
+        "stub": "9ff5a",
+        "speakers": [
+            {
+                "speaker_name": "Janice Levenhagen-Seeley"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "abf15": {
+        "talk_title": "Do more, server less",
+        "url_friendly_talk_title": "do-more-server-less",
+        "talk_description": "A tour through different useful applications of serverless computing and tools to use across different cloud providers, followed up with a walkthrough of a completely serverless application that I built to demonstrate some of those uses. I first go through what serverless computing really is and clear up some confusion that arises around serverless computing versus frameworks that have adopted the name. This leads into a brief tour of the popular serverless frameworks that are out there and how useful each one is.\r\n\r\nThis is followed by a tour of cloud provider\u2019s serverless offerings (AWS Lambda, Google Cloud Functions, Azure Functions, IBM Whisk), then a high level overview of the application I built and what it consists of, and things to watch out for when you build a fully serverless application.",
+        "type": "Talk",
+        "start_date": "2018-10-17T14:45:00-07:00",
+        "duration": 60,
+        "stub": "abf15",
+        "speakers": [
+            {
+                "speaker_name": "Richard Moot"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "005f9": {
+        "talk_title": "Developer's guide to cyber security",
+        "url_friendly_talk_title": "developers-guide-to-cyber-security",
+        "talk_description": "Cyber-attacks have resulted in billions of dollars in lost revenue and production. Cybercrime losses in the US went up to nearly five billion during the past four years. Many players are involved in cyber-attacks, including hackers, organized crime gangs, and nation states, as the motivation for most malware attacks is profit. In this presentation, learn essentials of cybersecurity, including risks, threats, vulnerabilities, and malware. Learn ways to mitigate overall risk by understanding network security basics, ensuring physical and personnel security, use of cryptographic techniques, preventing social engineering and phishing attacks, and some of the laws and regulation that drive the overall need to secure an organization.",
+        "type": "Talk",
+        "start_date": "2018-10-17T14:45:00-07:00",
+        "duration": 60,
+        "stub": "005f9",
+        "speakers": [
+            {
+                "speaker_name": "Lisa Bock"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "8636c": {
+        "talk_title": "Using DB2 and SQL with open source languages on IBM i",
+        "url_friendly_talk_title": "using-db2-and-sql-with-open-source-languages-on-ibm-i",
+        "talk_description": "DB2\u2019s ever-expanding capabilities can simplify development in open source languages such as PHP, Ruby, Node.js, and Python. These languages, known for their ease in building web and mobile applications, can run most types of SQL, but why complicate them with repetitive database code that distracts from their power and simplicity?\r\n\r\nThis talk shows examples of how to reduce tedious coding by using such DB2 structures as Views, User Defined Functions, stored procedures, Row and Column Access Control (RCAC), LIMIT\/OFFSET, exciting new DB2 Services, and more. Security, performance, and ease of maintenance in the open source scripting languages will be the result of the recommendations and techniques given in this talk.",
+        "type": "Talk",
+        "start_date": "2018-10-17T14:45:00-07:00",
+        "duration": 60,
+        "stub": "8636c",
+        "speakers": [
+            {
+                "speaker_name": "Alan Seiden"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "db281": {
+        "talk_title": "Why open source?",
+        "url_friendly_talk_title": "why-open-source",
+        "talk_description": "Open source has largely eaten the web. If you\u2019re working on the web, you\u2019re using open source software, somewhere \u2013 it\u2019s virtually impossible to avoid. That\u2019s because open source is a better, cheaper way to build software projects, and gets you lots of free help, too!\r\n\r\nOr at least that\u2019s the myth. Is it true, though? What actually makes open source tick? Is it really better? Why? Why should organizations engage with open source, especially when it\u2019s supposed to be free, dagnabbit!\r\n\r\nLet\u2019s take a step back and examine just what the benefits of open source really are, and why open source is not a spectator sport.",
+        "type": "Talk",
+        "start_date": "2018-10-17T14:45:00-07:00",
+        "duration": 60,
+        "stub": "db281",
+        "speakers": [
+            {
+                "speaker_name": "Larry Garfield"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "d2d37": {
+        "talk_title": "IBM i's world of open source",
+        "url_friendly_talk_title": "ibm-is-world-of-open-source",
+        "talk_description": "A lot has been happening in the world of open source on IBM i! As part of this exciting adventure, customers are now trying new languages, compiling their own utilities, and using a large assortment of new tools.\r\n\r\nSo, what does this mean for you? Come to this session for a quick glance at what technology is available and what IBM has been doing to ensure the IBM i customer can leverage the great business value in open source. Also, learn about the open source community and how you can participate in this exciting frontier!",
+        "type": "Talk",
+        "start_date": "2018-10-17T14:45:00-07:00",
+        "duration": 60,
+        "stub": "d2d37",
+        "speakers": [
+            {
+                "speaker_name": "Jesse Gorzinski"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "c109f": {
+        "talk_title": "MySQL 8 performance tuning",
+        "url_friendly_talk_title": "mysql-8-performance-tuning",
+        "talk_description": "MySQL 8 is a big departure from earlier versions of the most popular database on the web. You can use histograms to radically decrease query time on secondary indexes, use NO WAIT & SKIPPED LOCKED qualifiers to avoid record contention, and use the Contention Aware Transaction Scheduler instances with extreme resource conflicts. All that, and how to use optimizer hints, invisible indexes, and roles!",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "c109f",
+        "speakers": [
+            {
+                "speaker_name": "Dave Stokes"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    },
+    "ab10a": {
+        "talk_title": "Converting your DEV environment to a Docker stack",
+        "url_friendly_talk_title": "converting-your-dev-environment-to-a-docker-stack",
+        "talk_description": "Heard a lot about Docker but not sure where to start? In this presentation, we will go over the simplest ways to convert your development environment over to a Docker stack, including support for full acceptance testing with Selenium. We\u2019ll then go over how to modify the stack to mimic your production\/pre-production environment(s) as closely as possible, and demystify working with the containers in the stack.",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "ab10a",
+        "speakers": [
+            {
+                "speaker_name": "Dana Luther"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist H"
+            }
+        ]
+    },
+    "0e3b7": {
+        "talk_title": "Let's get random: Under the hood of PHP 7's CSPRNG",
+        "url_friendly_talk_title": "lets-get-random-under-the-hood-of-php-7s-csprng",
+        "talk_description": "Randomness is really important in many cryptographic contexts. Unfortunately, true randomness is a non-trivial achievement for computers. In fact, using weak sources of randomness can leave your application open to myriad vulnerabilities. Enter a good cryptographically secure pseudorandom number generator (CSPRNG).\r\n\r\nWe\u2019ll discuss the importance of using good sources of randomness, the CSPRNG options we had in PHP 5, and how the new-goodness CSPRNG functions in PHP 7 work under the hood.",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "0e3b7",
+        "speakers": [
+            {
+                "speaker_name": "Sammy Kaye Powers"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist D"
+            }
+        ]
+    },
+    "09aae": {
+        "talk_title": "Developing with MongoDB",
+        "url_friendly_talk_title": "developing-with-mongodb",
+        "talk_description": "Learn how to construct applications using the PHP driver for Mongo. Understand the pitfalls of schema design and learn how to properly select and create an index. Explore how to condense large loads of data using Mongo\u2019s Aggregation Pipeline and MapReduce.",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "09aae",
+        "speakers": [
+            {
+                "speaker_name": "Joe Carder"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist E"
+            }
+        ]
+    },
+    "89811": {
+        "talk_title": "Machine learning on AWS (for noobs) with PHP",
+        "url_friendly_talk_title": "machine-learning-on-aws-for-noobs-with-php",
+        "talk_description": "Artificial Intelligence is taking the world by storm, fueled largely by the introduction of the elastic compute resources in public cloud. If you\u2019ve recently shopped online, searched the web, or streamed a video, you\u2019ve almost certainly interacted with systems powered by AI. These systems are built on powerful Machine Learning (ML) algorithms, that until recently, required large time and financial commitments, as well as specialized knowledge and experience to properly develop, train and test. This is not so any more \u2014 the power of cloud computing has brought ML to the masses. Every developer now has the ability to leverage powerful ML resources of the cloud and bring the benefits of AI to their customers and users.\r\n\r\nBut \u2026 where do you start? What services can you use? What services should you use? How do you integrate those services into you application?\r\n\r\nDuring this session we\u2019ll answer those questions, and more, while building an AI-enabled PHP application. We\u2019ll review ML, introducing common concepts, terms and language. Then, we\u2019ll look at what ML services AWS provides and talk about which of those services is the right match for your application and for your team & skill set. Finally, we\u2019ll walk through a real-world design and demo the resulting PHP application. You\u2019ll walk away from this session with the confidence and knowledge necessary to make the right choices for your own application.\r\n\r\nYou don\u2019t have to be an AI\/ML expert to attend this session, nor do you need AWS experience. We\u2019ll keep that at a fairly high level. But we will be walking through PHP code examples, so some familiarity with the language would be beneficial.",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "89811",
+        "speakers": [
+            {
+                "speaker_name": "Jerry Hargrove"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist F"
+            }
+        ]
+    },
+    "313c2": {
+        "talk_title": "Zend Server for IBM i support tips and tricks",
+        "url_friendly_talk_title": "zend-server-for-ibm-i-support-tips-and-tricks",
+        "talk_description": "Most of the time, for most people, Zend Server for IBM i installs simply and runs without any incidents. Most of the time, but not always. Rogue Wave Software support has seen it all, and over the last dozen years we have accumulated many tips, workarounds, and trouble shooters to assist with the most common issues that seem to pop up.\r\n\r\nIn this session, we will review some of the more interesting and useful notes from our Knowledge Base, and in the process, shed a little light on how things work under the hood. Because in the long run, we have found, as is true for most things, that the best way to not have problems with a product is to understand how it works.",
+        "type": "Talk",
+        "start_date": "2018-10-17T16:00:00-07:00",
+        "duration": 60,
+        "stub": "313c2",
+        "speakers": [
+            {
+                "speaker_name": "Rod Flohr"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist G"
+            }
+        ]
+    },
+    "16ff0": {
+        "talk_title": "Closing",
+        "url_friendly_talk_title": "closing",
+        "talk_description": "TBA",
+        "type": "Keynote",
+        "start_date": "2018-10-17T17:15:00-07:00",
+        "duration": 60,
+        "stub": "16ff0",
+        "speakers": [
+            {
+                "speaker_name": "TBA"
+            }
+        ],
+        "tracks": [
+            {
+                "room": "Artist A"
+            }
+        ]
+    }
+}

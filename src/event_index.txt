@@ -1,0 +1,72 @@
+Building a RESTful web API using Expressive|2b8fe
+Start testing your PHP code|d7e2e
+Deconstructing Docker for safety-critical applications|4ca32
+PHP certification boot camp - Part I|67457
+PHP on IBM i performance workshop|9b47f
+TBA|ea9b2
+Practical API security|1e15d
+Continuous delivery with Jenkins, Terraform, AWS ECS, and Docker|08747
+Introduction to domain-driven design in PHP|bca5a
+Asynchronous processing with ActiveMQ|672e3
+PHP certification boot camp - Part II|9fc47
+Apache Web Server security hardening|85183
+Welcome reception and Fire side chat on API management - Featuring FedEx Cross Border|300b1
+The war on general purpose computing is the war on security|a6f80
+Asynchronous processing with ActiveMQ|a0e2c
+Device-independent API design using microservices+GraphQL|ebcb2
+Zend Expressive on the IBM i|efe91
+Bringing bright ideas to life|614a6
+Kafka with your microservices architecture|02536
+Controlling the variables|ab25b
+Transitioning from virtual machines to containers and orchestration|4dd40
+MySQL without the SQL -- Oh my!|14f9b
+Kubernetes: It's automation not automagic|ab02b
+Web optimization best practices applied in the embedded world|5bf2f
+IBM Watson & PHP, a practical demonstration|987ba
+The Sodium crypto library of PHP 7.2|02deb
+Women in technology panel discussion - Lunch|e0087
+PHP: A glimpse into the future|f1e4e
+Release your refactoring superpower|ba470
+Open infrastructure: From cloud to containers with a real-world approach|2d361
+Administering MongoDB|18421
+The debug dance: An intro to step debugging|5fb02
+Essentials of blockchain technology|58c22
+Doctrine on IBM i|a5c97
+How open source software is transforming enterprise organizations|33429
+Cryptography in depth|79b33
+Using Z-Ray for lightning fast security analysis|92a26
+Open source DB2Sock: The new way to connect to the IBM i|61298
+Immutability to save an ever-changing world|a2ddd
+Warp speed testing at an enterprise level|f02c7
+PHP-1701-A|fb8fa
+Docker alphabet soup|26381
+Building a cloud-friendly application|e5848
+Rapid API development|cd202
+Install MariaDB on IBM i: Tips, troubleshooting, and more|1523e
+From zero to DevSecOps in 60 minutes|02f24
+MariaDB and MySQL: Past and future|30b98
+Writing code that lasts…|061f0
+The why and the how of moving to PHP 7.x|12a1c
+Application security basics|6290d
+Apache web server security hardening|fa85c
+Fear not a PHP segfault|1f24f
+PHP debugging on the IBM i from A to Z (Apache to Zend)|06341
+Swimming with Docker|73f18
+The forgotten route: Making Apache Camel work for you|73625
+Securing web services: Fundamentals, lessons learned, common vulnerabilities, and security strategies|3dbda
+How to set up a well maintainable ZF3 project|8c0e1
+Developing cacheable PHP applications|5a957
+IBM i open source administration guide|52d93
+Winning together|9ff5a
+Do more, server less|abf15
+Developer's guide to cyber security|005f9
+Using DB2 and SQL with open source languages on IBM i|8636c
+Why open source?|db281
+IBM i's world of open source|d2d37
+MySQL 8 performance tuning|c109f
+Converting your DEV environment to a Docker stack|ab10a
+Let's get random: Under the hood of PHP 7's CSPRNG|0e3b7
+Developing with MongoDB|09aae
+Machine learning on AWS (for noobs) with PHP|89811
+Zend Server for IBM i support tips and tricks|313c2
+Closing|16ff0
